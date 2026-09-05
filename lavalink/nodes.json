@@ -1,5 +1,12 @@
 [
   {
+    "host": "fyb-production.up.railway.app",
+    "port": 443,
+    "password": "YOUR_LAVALINK_PASSWORD",
+    "secure": true,
+    "name": "RailwayLavalink"
+  },
+  {
     "host": "lavalinkv4.serenetia.com",
     "port": 443,
     "password": "https://seretia.link/discord",
