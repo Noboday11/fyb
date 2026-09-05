@@ -1,6 +1,6 @@
 [
   {
-    "host": "fyb-production.up.railway.app",
+    "host": "titanbot-lavalink-production.up.railway.app",
     "port": 443,
     "password": "youshallnotpass",
     "secure": true,
