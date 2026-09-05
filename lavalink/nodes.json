@@ -2,7 +2,7 @@
   {
     "host": "fyb-production.up.railway.app",
     "port": 443,
-    "password": "YOUR_LAVALINK_PASSWORD",
+    "password": "youshallnotpass",
     "secure": true,
     "name": "RailwayLavalink"
   },
